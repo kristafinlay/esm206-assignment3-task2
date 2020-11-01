@@ -318,6 +318,8 @@ Once you've completed the above:
 - Click the green (up arrow) button to "Push"
 - Once it's done, go back to the forked repo in your GitHub account, refresh, and ensure that your updates have been recorded & safely stored.
 
+Not sure this is working for me.... not everything is showing up in github, and i have a src folder there?
+
 
 ## END TASK 2!
 
