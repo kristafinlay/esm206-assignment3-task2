@@ -31,7 +31,7 @@ The `separate()` function in the `tidyr` package (part of the `tidyverse`) is us
 
 #### 1A. Follow me 
 
-Read and run the code chunk below. Make sure you understand what the code is doing (comments added to get you started), and compare the input `starwars` dataset with the output. 
+Read and run the code chunk below. Make sure you understand what the code is doing (comments added to get you started), and compare the input `starwars` dataset with the output.
 
 ```{r}
 # Run this code: 
